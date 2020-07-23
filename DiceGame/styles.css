@@ -11,8 +11,10 @@
 
 .roll {
   background-color: #4ECCA3;
-  font-size: 4rem;
   color: #393E46;
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  font-weight: bold;
   margin-top: 20px;
 }
 
